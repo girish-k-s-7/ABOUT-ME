@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Girish K S  
-### Data Analyst • Data Scientist • Machine Learning Engineer  
-*Building intelligent systems through clean data, strong statistical rigor, and production-ready ML.*
+
+### Machine Learning Engineer • Data Scientist • Data Analyst  
+*Turning data into deployable intelligence using statistics, scalable ML pipelines, and business-driven modeling.*
 
 ---
 
 ## 🚀 About Me  
-I’m a data-driven problem solver who enjoys transforming raw information into meaningful insights and deployable ML solutions.  
-My strengths lie in understanding data behavior, designing statistically sound features, and building modular ML pipelines that scale.  
-I focus on **classical Machine Learning**, **statistical modeling**, and **business-oriented analytics**—the foundation of most real-world FAANG workflows.
+I specialize in building **production-grade Machine Learning systems** backed by strong **statistical reasoning and real-world data understanding**.  
+My work focuses on **feature engineering, model experimentation, and end-to-end ML pipelines** that convert messy data into reliable predictions.  
+I enjoy solving **business-critical problems** using **classical ML, experimental design, and performance-driven modeling**.
 
 ---
 
@@ -87,19 +88,27 @@ Delivered insights on declining markets, revenue trends, and digital readiness g
 
 ## 🏆 Certifications  
 - Google Data Analytics  
-- Data Science & ML — NASSCOM SkillUp (GFG)  
-- Python — NASSCOM SkillUp (GFG)  
-- SQL — NASSCOM SkillUp (GFG)  
-- *(You can add certificate images later — we will place them under /assets/certifications)*
+- Data Science & ML — GeeksForGeeks (Nation SkillUp)
+- Python — GeeksForGeeks (Nation SkillUp) 
+- SQL — GeeksForGeeks (Nation SkillUp) 
+- 
+
+---
+
+---
+
+## 🧩 Soft Skills 
+
+- Analytical Thinking & Root Cause Analysis
+- Structured Problem Solving 
+- Clear Technical & Business Communication 
+- Data Storytelling for Decision Making
+- Ownership Mindset & Delivery Accountability
 
 ---
 
 ## 📫 Contact  
 📧 **Email:** girishhemanth823@gmail.com  
 
----
-
-## 📊 GitHub Stats  
-![Girish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
   

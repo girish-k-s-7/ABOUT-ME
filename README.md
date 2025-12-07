@@ -87,10 +87,13 @@ Delivered insights on declining markets, revenue trends, and digital readiness g
 ---
 
 ## 🏆 Certifications  
-- Google Data Analytics  - Google (Coursera)
+- Google Data Analytics  — Google (Coursera)
+- Artificial Intelligence Fundamentals — IBM (Skills Build)
 - Data Science & ML — GeeksForGeeks (Nation SkillUp)
 - Python — GeeksForGeeks (Nation SkillUp) 
-- SQL — GeeksForGeeks (Nation SkillUp) 
+- SQL — GeeksForGeeks (Nation SkillUp)
+- Problem Solving and Process Controls — IBM (Skills Build)
+- Communication and Personality Dynamics — IBM (Skills Build)
   
 
 

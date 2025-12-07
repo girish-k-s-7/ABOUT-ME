@@ -87,13 +87,13 @@ Delivered insights on declining markets, revenue trends, and digital readiness g
 ---
 
 ## 🏆 Certifications  
-- Google Data Analytics  
+- Google Data Analytics  - Google (Coursera)
 - Data Science & ML — GeeksForGeeks (Nation SkillUp)
 - Python — GeeksForGeeks (Nation SkillUp) 
 - SQL — GeeksForGeeks (Nation SkillUp) 
-- 
+  
 
----
+
 
 ---
 
